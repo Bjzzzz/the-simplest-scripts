@@ -13,7 +13,7 @@ def fahrenheit():
     print(fahrenheit_degree, "F =", celcius_degree, "C")
 
 
-def main():  # Главное меню
+def main():  # Main Menu
     print("The temperature converter\n",
           "Main Menu.\n",
           "1 - Convert Celsius to Fahrenheit\n",
